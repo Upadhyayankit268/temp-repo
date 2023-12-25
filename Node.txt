@@ -1,0 +1,22 @@
+1.Global
+
+__dirname - path to current directory
+__filename - file name
+require - function to use Modules(CommonJS)
+module - info about current module(file)
+process - info about env where program is executed
+
+
+2.Modules
+CommonJS - Every file is module (by Default)
+Modules - Encapsulated code (only share Minimum)
+
+3.Built in Modules
+a.OS
+b.PATH
+c.FS
+d.HTTP
+
+4.Sync Vs Async
+
+5.HTTP
